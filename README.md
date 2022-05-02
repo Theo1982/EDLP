@@ -1,2 +1,2 @@
-# Front-End-EDLP
+# EDLP
 Trabajos Practicos
