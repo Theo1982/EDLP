@@ -1,8 +1,30 @@
 body {background-color: yellow;}
+
+}
+
 h1 {background-color: white;}
 .textoverde {color: green;}
 p {text-align: justify;}
 h3 {text-decoration: underline;}
 h4 {text-decoration: underline;}
 p {font-size: large;}
-img {width: 200px; height: 200px;}
+
+header {background-color:#FEE501;
+
+ }
+
+section {background-color:#FEF601;
+         width: 50%;
+         float: left;
+
+ }
+
+aside {background-color:#FEF601;
+       width: 50%;
+       float: left;
+ }
+
+footer {background-color:#FEC301;
+        clear: both;
+
+ }
