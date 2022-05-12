@@ -13,18 +13,23 @@ header {background-color:#FEE501;
 
  }
 
-section {background-color:#FEF601;
-         width: 50%;
-         float: left;
+nav {border: 2px black solid ;
 
+}
+
+section {background-color:#FEF601;
+         width: 48%;
+         float: left;
+         margin: 1%;
  }
 
 aside {background-color:#FEF601;
-       width: 50%;
+       width: 48%;
        float: left;
+       margin: 1%;
  }
 
-footer {background-color:#FEC301;
+footer {background-color:white;
         clear: both;
 
  }
