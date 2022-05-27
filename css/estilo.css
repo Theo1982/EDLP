@@ -68,7 +68,6 @@ header {background-image: linear-gradient(to top, #619ef9, #25b6e5, #6dc2c4, #a9
  }
 
 nav ul li {display: inline-block;
-  background-color: grey;
   margin: 2%;
   font-size: 2rem;
   font-family: arial;
