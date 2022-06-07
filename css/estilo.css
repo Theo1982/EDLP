@@ -120,30 +120,44 @@ nav ul li {display: inline-block;
 
 
 
-footer { display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: white;
+footer { margin-top: 10px;
+    display: flex;
+    background-color: #117864;
+    clear: both;
     box-sizing: border-box;
-    border: 3px solid black;
-    width: 100vw;
+    margin-left: 10px;
+    margin-right: 10px;
 
  }
 
+ .redes { height: 80px;
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    box-sizing: border-box;
+ }
 
-
-.facebook:hover {width: 60%;
-  border-radius: 50%;
+.fb { width: 45px;
+  margin-right: 20px;
+  margin-top: 8px;
 }
 
-.instagram:hover {width: 60%;
-  border-radius: 50%;
+.ig { width: 45px;
+  margin-right: 10px;
+  margin-top: 6px;
 }
 
-.whatsapp:hover {width: 60%;
-  border-radius: 50%;
+.twt { width: 65px;
+
 }
 
-.pinterest:hover {width: 60%;
-  border-radius: 25%;
+.wimg img:hover { width: 75px;
+
+}
+
+.wimg img { position: fixed;
+  width: 70px;
+  top: 80%;
+  right: 2%;
+
 }
